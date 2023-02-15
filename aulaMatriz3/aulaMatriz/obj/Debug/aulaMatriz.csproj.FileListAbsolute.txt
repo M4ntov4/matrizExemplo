@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\aulaMatriz\aulaMatriz\bin\Debug\aulaMatriz.exe.config
+C:\Users\usuario\source\repos\aulaMatriz\aulaMatriz\bin\Debug\aulaMatriz.exe
+C:\Users\usuario\source\repos\aulaMatriz\aulaMatriz\bin\Debug\aulaMatriz.pdb
+C:\Users\usuario\source\repos\aulaMatriz\aulaMatriz\obj\Debug\aulaMatriz.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\aulaMatriz\aulaMatriz\obj\Debug\aulaMatriz.exe
+C:\Users\usuario\source\repos\aulaMatriz\aulaMatriz\obj\Debug\aulaMatriz.pdb
+C:\Users\usuario\Documents\appsjoao\aulaMatriz2\aulaMatriz\bin\Debug\aulaMatriz.exe.config
+C:\Users\usuario\Documents\appsjoao\aulaMatriz2\aulaMatriz\bin\Debug\aulaMatriz.exe
+C:\Users\usuario\Documents\appsjoao\aulaMatriz2\aulaMatriz\bin\Debug\aulaMatriz.pdb
+C:\Users\usuario\Documents\appsjoao\aulaMatriz2\aulaMatriz\obj\Debug\aulaMatriz.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\appsjoao\aulaMatriz2\aulaMatriz\obj\Debug\aulaMatriz.exe
+C:\Users\usuario\Documents\appsjoao\aulaMatriz2\aulaMatriz\obj\Debug\aulaMatriz.pdb
